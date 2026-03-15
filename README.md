@@ -53,4 +53,4 @@
 
 # 💫Удачи!
 **Создатель Gleb30ru**
-[![Contributors]([https://contrib.rocks/image?repo=Gleb30ru/ClearTemp)]
+
